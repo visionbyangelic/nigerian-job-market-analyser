@@ -1,0 +1,6 @@
+openai
+kagglehub
+pandas
+matplotlib
+seaborn
+streamlit
